@@ -22,7 +22,6 @@
 
 </div>
 
----
 
 # 👨‍💻 About Me
 
@@ -35,7 +34,6 @@
 * 🎯 Goal: Full Stack Java + DevOps Engineer
 * 📫 **[abhibhawsar066@gmail.com](mailto:abhibhawsar066@gmail.com)**
 
----
 
 # 🛠️ Tech Stack
 
@@ -45,33 +43,27 @@
 
 </div>
 
----
 
 # 📊 GitHub Statistics
 
-<!-- <div align="center">
+<div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhish0717&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish0717&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div> -->
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhish0717&show_icons=true&theme=tokyonight" />
-</p>
+</div>
 ---
 
 # 🔥 Contribution Streak
 
-<!-- <div align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhish0717&theme=tokyonight&hide_border=true"/>
 
-</div> -->
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Abhish0717&theme=tokyonight" />
-</p>
----
+</div>
+
+
 
 # 🚀 Featured Project
 
@@ -99,13 +91,11 @@ Enterprise Java Web Application built using:
 
 ✅ Authentication & Authorization
 
----
 
 ## 📚 Currently Learning
 
 MVC Architecture • Design Patterns • Jasper Reports • Docker • Jenkins • GitHub Actions • CI/CD • Cloud Fundamentals
 
----
 
 # 🏆 GitHub Trophies
 
@@ -113,7 +103,6 @@ MVC Architecture • Design Patterns • Jasper Reports • Docker • Jenkins �
 <img src="https://github-profile-trophy.vercel.app/?username=Abhish0717&theme=algolia&margin-w=15&margin-h=15" />
 </p>
 
----
 
 # 📈 Activity Graph
 
@@ -123,21 +112,24 @@ MVC Architecture • Design Patterns • Jasper Reports • Docker • Jenkins �
 
 </div>
 
----
 
 # 🌐 Connect With Me,
 
 * LinkedIn: https://www.linkedin.com/in/abhishish-bhawsar-97781a206
 * Mailto: abhibhawsar066@gmail.com
 
----
 
 # ⚡ Fun Fact
 
 > Code → Learn → Build → Deploy → Repeat 🚀
 
----
+<div align="center">
 
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Abhish0717/Abhish0717/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 <div align="center">
 
 ### ⭐ Thanks for Visiting My Profile ⭐
