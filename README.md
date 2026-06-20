@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="YOUR_BANNER_URL" width="100%"/>
+  
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/1f265fde-22f7-41ef-9e77-8d2a9f177888" />
 
 # Hi 👋, I'm Abhishish Bhawsar
 
@@ -8,7 +8,19 @@
 
 ### 🚀 Java Full Stack Developer | DevOps Enthusiast | Open Source Learner
 
-<img src="https://komarev.com/ghpvc/?username=Abhish0717&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<div align="center">
+
+<a href="https://github.com/Abhish0717">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishish-bhawsar-97781a206">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abhibhawsar066@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
@@ -163,21 +175,6 @@ Enterprise Java Web Application
 
 # 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/Abhish0717">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhishish-bhawsar-97781a206">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:abhibhawsar066@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
 
 ---
 
