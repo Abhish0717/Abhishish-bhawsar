@@ -115,10 +115,20 @@ MVC Architecture • Design Patterns • Jasper Reports • Docker • Jenkins �
 </div>
 
 
-# 🌐 Connect With Me,
+# 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/abhishish-bhawsar-97781a206
+<!-- * LinkedIn: https://www.linkedin.com/in/abhishish-bhawsar-97781a206
 * 📫 **[abhibhawsar066@gmail.com](mailto:abhibhawsar066@gmail.com)**
+ -->
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22">
+https://www.linkedin.com/in/abhishish-bhawsar-97781a206
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22">
+abhibhawsar066@gmail.com
+</p>
 
 
 # ⚡ Fun Fact
