@@ -1,16 +1,194 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Abhish0717/Abhish0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="YOUR_BANNER_URL" width="100%"/>
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Abhishish Bhawsar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;DevOps+Enthusiast;Docker+%7C+Jenkins+%7C+Maven;Building+ORSProject-04;Hibernate+%7C+MySQL+%7C+JSP+%26+Servlet;Always+Learning+New+Technologies+🚀" />
+
+### 🚀 Java Full Stack Developer | DevOps Enthusiast | Open Source Learner
+
+<img src="https://komarev.com/ghpvc/?username=Abhish0717&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Student & Passionate Java Developer
+
+🔭 Currently working on **ORSProject-04**
+
+🌱 Learning **Docker, Jenkins, CI/CD, Design Patterns, Cloud & DevOps**
+
+💻 Interested in:
+
+* Core Java
+* Advanced Java
+* JSP & Servlet
+* Hibernate ORM
+* Maven
+* MySQL
+* Jenkins
+* Docker
+* Git & GitHub
+* Bootstrap 5
+* Design Patterns
+
+🚀 Goal: Become a Professional Full Stack Java & DevOps Engineer
+
+📫 Email: **[abhibhawsar066@gmail.com]**
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,hibernate,maven,git,github,docker,jenkins,html,css,bootstrap,vscode,eclipse"/>
+
+</div>
+
+---
+
+# ⚙️ DevOps Toolkit
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhish0717&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish0717&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhish0717&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abhish0717/Abhish0717/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🚀 Featured Project
+
+## ORSProject-04
+
+Enterprise Java Web Application
+
+✅ Java
+
+✅ JSP & Servlet
+
+✅ Hibernate ORM
+
+✅ MySQL
+
+✅ Bootstrap 5
+
+✅ Maven
+
+✅ Jenkins CI/CD
+
+✅ Docker Deployment
+
+✅ MVC Architecture
+
+✅ Authentication & Authorization
+
+---
+
+# 📚 Currently Learning
+
+* MVC Architecture
+* Design Patterns
+* Bootstrap 5
+* Jasper Reports
+* Docker Containers
+* Jenkins Pipelines
+* GitHub Actions
+* Enterprise Java Development
+* CI/CD Automation
+* Cloud Fundamentals
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhish0717&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhish0717&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Abhish0717">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishish-bhawsar-97781a206">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abhibhawsar066@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+> Code → Learn → Build → Deploy → Repeat 🚀
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+</div>
