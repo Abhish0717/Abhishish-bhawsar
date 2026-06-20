@@ -1,7 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/1f265fde-22f7-41ef-9e77-8d2a9f177888"/>
+<!-- <img width="100%" src="https://github.com/user-attachments/assets/1f265fde-22f7-41ef-9e77-8d2a9f177888"/> -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=250&section=header&text=Abhishish%20Bhawsar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descAlign=50" />
+
+</div>
 # Hi 👋, I'm Abhishish Bhawsar
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;DevOps+Enthusiast;Building+ORSProject-04;Docker+%7C+Jenkins+%7C+Maven;Hibernate+%7C+MySQL+%7C+JSP+%26+Servlet" />
