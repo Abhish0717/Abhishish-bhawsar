@@ -1,16 +1,12 @@
 <div align="center">
-  
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/1f265fde-22f7-41ef-9e77-8d2a9f177888" />
+
+<img width="100%" src="https://github.com/user-attachments/assets/1f265fde-22f7-41ef-9e77-8d2a9f177888"/>
 
 # Hi 👋, I'm Abhishish Bhawsar
 
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;DevOps+Enthusiast;Building+ORSProject-04;Docker+%7C+Jenkins+%7C+Maven;Hibernate+%7C+MySQL+%7C+JSP+%26+Servlet" />
-</p>
 
 ### 🚀 Java Full Stack Developer | DevOps Enthusiast | Open Source Learner
-
-<div align="center">
 
 <a href="https://github.com/Abhish0717">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -30,29 +26,14 @@
 
 # 👨‍💻 About Me
 
-🎓 Student & Passionate Java Developer
-
-🔭 Currently working on **ORSProject-04**
-
-🌱 Learning **Docker, Jenkins, CI/CD, Design Patterns, Cloud & DevOps**
-
-💻 Interested in:
-
-* Core Java
-* Advanced Java
-* JSP & Servlet
-* Hibernate ORM
-* Maven
-* MySQL
-* Jenkins
-* Docker
-* Git & GitHub
-* Bootstrap 5
-* Design Patterns
-
-🚀 Goal: Become a Professional Full Stack Java & DevOps Engineer
-
-📫 Email: **[abhibhawsar066@gmail.com]**
+* 🎓 Student & Java Developer
+* 🚀 Building **ORSProject-04**
+* ☕ Java Full Stack Development
+* 🐳 Learning **Docker, Jenkins & CI/CD**
+* 🛠️ Java • JSP • Servlet • Hibernate • MySQL • Maven
+* ⚙️ Docker • Jenkins • Git • GitHub • Bootstrap
+* 🎯 Goal: Full Stack Java + DevOps Engineer
+* 📫 **[abhibhawsar066@gmail.com](mailto:abhibhawsar066@gmail.com)**
 
 ---
 
@@ -61,20 +42,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,mysql,hibernate,maven,git,github,docker,jenkins,html,css,bootstrap,vscode,eclipse"/>
-
-</div>
-
----
-
-# ⚙️ DevOps Toolkit
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 </div>
 
@@ -102,21 +69,11 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abhish0717/Abhish0717/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
 # 🚀 Featured Project
 
 ## ORSProject-04
 
-Enterprise Java Web Application
+Enterprise Java Web Application built using:
 
 ✅ Java
 
@@ -140,18 +97,9 @@ Enterprise Java Web Application
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-* MVC Architecture
-* Design Patterns
-* Bootstrap 5
-* Jasper Reports
-* Docker Containers
-* Jenkins Pipelines
-* GitHub Actions
-* Enterprise Java Development
-* CI/CD Automation
-* Cloud Fundamentals
+MVC Architecture • Design Patterns • Jasper Reports • Docker • Jenkins • GitHub Actions • CI/CD • Cloud Fundamentals
 
 ---
 
@@ -177,6 +125,21 @@ Enterprise Java Web Application
 
 # 🌐 Connect With Me
 
+<div align="center">
+
+<a href="https://github.com/Abhish0717">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishish-bhawsar-97781a206">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abhibhawsar066@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
